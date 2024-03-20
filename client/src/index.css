@@ -1,3 +1,5 @@
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+
 *{
   margin: 0;
   padding: 0;
@@ -5,4 +7,5 @@
 body{
   box-sizing: border-box;
   overflow-x: hidden;
+  font-family: 'SF Pro Display', sans-serif;
 }
